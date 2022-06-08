@@ -1,5 +1,5 @@
-# Web_client
-<h2>To setup Covidcensus you need to have downloaded th following</h2>
+# Covid census
+<h2>To setup Covidcensus you need to have downloaded the following</h2>
 <h3>-XAMPP
 	  -Any broswer of your choice
 	  -visual studio code and extensions (html, php, jquery, javascript,css) (for futher developement)
